@@ -1,2 +1,8 @@
-# BMI-Calculator
-A simple and responsive Body Mass Index (BMI) Calculator that helps users calculate their BMI based on weight and height inputs. It also provides health classification (like underweight, normal, overweight, etc.) based on the result.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
